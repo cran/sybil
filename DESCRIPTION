@@ -1,8 +1,8 @@
 Package: sybil
 Type: Package
 Title: Efficient Constrained Based Modelling
-Version: 2.1.2
-Date: 2018-07-20
+Version: 2.1.5
+Date: 2019-03-07
 Authors@R: c(
          person("Mayo", "Roettger", role = c("cre"), email = "mayo.roettger@hhu.de"),
 	     person("Gabriel", "Gelius-Dietrich", role = "aut"),
@@ -55,7 +55,7 @@ Collate: generics.R validmodelorg.R validoptsol.R validreactId.R
         sysBiolAlg_mtfClass.R sysBiolAlg_mtfEasyConstraintClass.R
         sysBiolAlg_roomClass.R sybilLogClass.R upgradeModelorg.R
         mergeReact2Modelorg.R
-Packaged: 2018-07-20 12:53:28 UTC; roettger
+Packaged: 2019-03-07 10:11:26 UTC; root
 Author: Mayo Roettger [cre],
   Gabriel Gelius-Dietrich [aut],
   C. Jonathan Fritzemeier [ctb],
@@ -66,4 +66,4 @@ Author: Mayo Roettger [cre],
   Martin J. Lercher [ctb]
 NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2018-08-15 16:40:03 UTC
+Date/Publication: 2019-03-07 14:10:03 UTC
