@@ -1,4 +1,4 @@
-dc83d837a7824ef499d46401c4483158 *DESCRIPTION
+b841050b742fd7cd8bffc4f4ab975930 *DESCRIPTION
 784d7dc7357bd924e8d5642892bf1b6b *LICENSE
 a0057ebdd98c02282ccde8e5106b3480 *NAMESPACE
 90ecac75949618855d37c9257cd3f6ba *R/addAlgorithm.R
@@ -38,9 +38,9 @@ fbdd7547d4dac50193999a7c92ad79e9 *R/generics.R
 c9871521aa40b4ff5ef0366e25b99d14 *R/makeLPcompatible.R
 9fe159e369938336f80657771a0481be *R/mergeReact2Modelorg.R
 cd80dbd650f7cb83681bc0648a0feda4 *R/mod2irrev.R
-48057c793465f42492bfa86e38eca2de *R/modelorg2ExPA.R
+95a01f1ecc11e60e5d359a7d0c145a80 *R/modelorg2ExPA.R
 ff95c8bba67c0872032c138e21917198 *R/modelorg2text.R
-0008835ef92bd9dfc6cdfcb1c1e37a8d *R/modelorg2tsv.R
+d6f338c2294cea28cce46405070b5115 *R/modelorg2tsv.R
 5e1c37e636b57d878f0421b7a39eb4e9 *R/modelorgClass.R
 76daff0a28b2ce1d628fbd55804effe0 *R/modelorg_irrevClass.R
 261781f2a650538647dd3c6324c6d0ce *R/multiDel.R
@@ -51,8 +51,8 @@ ff95c8bba67c0872032c138e21917198 *R/modelorg2text.R
 2bf00b25107e3454ad17c4210d428ce9 *R/onlyCheckGPR.R
 b9b397908dfcc9d0e67f3f5b11152d20 *R/optObjClass.R
 1e2353b32882d92b998de47e4d75c261 *R/optObj_basicfunc.R
-031717b9dd5f23ecd7ea9aff32d27c36 *R/optObj_clpAPIClass.R
-180728bfe376199f3c3cc243094d1d9f *R/optObj_cplexAPIClass.R
+27913758a31953210ce35767f8245f4e *R/optObj_clpAPIClass.R
+5d2b053996bf06920e6337f9ce063cae *R/optObj_cplexAPIClass.R
 85ac1dfaf016d674471aae080132a1bd *R/optObj_glpkAPIClass.R
 50c8e6e21f2cfe0d19282532c298029e *R/optObj_lpSolveAPIClass.R
 6c54af969a8d735a0f2ab0efbb3847b6 *R/optObj_lpSolveAPIcompat.R
@@ -66,7 +66,7 @@ f116c47fcd6d582632dfddfa27af048a *R/optsol_genedelClass.R
 a0615a915293ec9b892342c6a7748106 *R/optsol_optimizeProbClass.R
 74308b9dd44d0541bbf73c3d38d23345 *R/optsol_phppClass.R
 65a70792a1d656fe3eacb2847a769365 *R/optsol_robAnaClass.R
-64ddbba173b8655222ce625121c1e8df *R/parseBoolean.R
+a881c125d0dbde7e82d5beb9f70b3ace *R/parseBoolean.R
 4bcfa4434e025e5cf8acaf833aa544b9 *R/phpp.R
 7bd65887a4d6eabf6dd4dc240b70ad00 *R/ppProcClass.R
 f121516c97606ece165c12fb90c40c8f *R/ppProcessing.R
@@ -74,7 +74,7 @@ f121516c97606ece165c12fb90c40c8f *R/ppProcessing.R
 75de08d58a12bfb6c75e3ee4640f611b *R/printLogComment.R
 3cdeb4684cdde1ad915dc908de501c3a *R/printNamedList.R
 725991084b78416f2909dce9f7f4bcfd *R/progress.R
-59445a53f70600ed558deefee8d16ee3 *R/promptSysBiolAlg.R
+d8787cc889f9d1c06cea423870aa40e9 *R/promptSysBiolAlg.R
 8c3c00b1f691472604bbb7d26f22b190 *R/reactClass.R
 7f78125bbebbd423578165991bd01ef2 *R/reactIdClass.R
 ac449c1d936425aa7317a9f94209b874 *R/reactId_ExchClass.R
@@ -109,13 +109,13 @@ f9253acaee4e2dae34d57291e0471248 *R/validreactId_Exch.R
 94eef6e16843a2cd6cf543132f24f8cd *R/ypd.R
 42dab78122a95222825a810ee795ca0f *R/zzz.R
 f1d2b505be834e29ec4af5b54dd9aa23 *README.md
-c06bde718fecb3b7ee2418627670dc2c *build/vignette.rds
+f7238b0ee83fbf90f04fcd90126d8d53 *build/vignette.rds
 c3a4955df966f86bd01b43aef1f93ad8 *data/Ec_core.RData
-dcb1bdb0b852efeed6c4633f10aa2fd0 *inst/CITATION
-678947ff824467bbf47a01c8dc6eab53 *inst/NEWS.Rd
-23d1433e302a9eba8ef18916b190c9d2 *inst/doc/sybil.R
+0e5007eacc40081fed87ae28e21c3634 *inst/CITATION
+9e462e5bffd355c3c8de741a3ea4624d *inst/NEWS.Rd
+fdffd4dc299b12401e6d121b3e7ce466 *inst/doc/sybil.R
 24e6cf8fb9f47f6aa6c8b7bdf3957ca5 *inst/doc/sybil.Rnw
-afb4d102d12b8b1af50b896645cc9be3 *inst/doc/sybil.pdf
+30c6b7816136f99a49691996ce20d391 *inst/doc/sybil.pdf
 57349ddd1c5292698b4f40828fb0a4c8 *inst/extdata/Ec_core_desc.tsv
 a087d5c12df926906688674ba133e6a9 *inst/extdata/Ec_core_met.tsv
 5e592ee880a444834fca2de9f320367a *inst/extdata/Ec_core_react.tsv
@@ -176,7 +176,7 @@ a1493b612508bd30fc85efd7a62b34fd *man/getRowsLowBnds-methods.Rd
 9f8f0fad881ed9ae40f80c2bac4423d4 *man/getRowsNames-methods.Rd
 b809722b0e798279846d47b72e360fa3 *man/getRowsUppBnds-methods.Rd
 20606bd44f717423a33314c9f149bad1 *man/getSolStat-methods.Rd
-c738a32ab364dc573643fa6d8d1496e4 *man/getSolverParm-methods.Rd
+16c27f082091a5aaaae072b2fcdfe6f8 *man/getSolverParm-methods.Rd
 697ae0fc7914329d0976b9aa73edee45 *man/getsybilenv.Rd
 2cbc7543945ce53bf6e7d4cacc95f9df *man/initProb-methods.Rd
 8819fbb3ace4a9c7b471485679ee30b4 *man/loadLPprob-methods.Rd
@@ -228,7 +228,7 @@ f30204ebd4a876d91c2a62d59999f614 *man/scaleProb-methods.Rd
 f55f377360fd18e5cfc0959571b6d1d8 *man/setObjDir-methods.Rd
 7f00e44d2acfe74aa79a4686ccf8c54d *man/setRhsZero-methods.Rd
 ca5dc557337054a4e4210a5490750099 *man/setRowsNames-methods.Rd
-eb85c0315e458422ef211479b03b61dd *man/setSolverParm-methods.Rd
+d8140199edfbf853ffade3e1f00f517a *man/setSolverParm-methods.Rd
 e564e1e70d193503503370004eb5d281 *man/shrinkMatrix-methods.Rd
 d885f3558e3ee7f244fa41d4889af4d4 *man/singletonMetabolites-methods.Rd
 e321cc4d07f48937e3aa9b7e3a763460 *man/solveLp-methods.Rd
@@ -248,7 +248,7 @@ c28e3f57872ddd6b7e9ccea121e5cb10 *man/sysBiolAlg_fv-class.Rd
 b3623f4b8e1e0b0712be68e17af1ec57 *man/sysBiolAlg_moma-class.Rd
 f655910b3380507108d10d68c43984f7 *man/sysBiolAlg_mtf-class.Rd
 c8117f98c6b668909cb7c9d88dd12bc7 *man/sysBiolAlg_room-class.Rd
-82e7368bfd47dd3494afbe291d9209d8 *man/upgradeModelorg.Rd
+0fde2bf017a2c183cd3d49f41145d8e1 *man/upgradeModelorg.Rd
 48b214bb78de01423f03a9ad6754fb64 *man/writeProb-methods.Rd
 180288d1be517a446f88dad48217f3be *man/ypd.Rd
 ceeeafbf54e3ec1ae03879b7fa70aef6 *vignettes/net-crop.pdf

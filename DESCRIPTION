@@ -1,8 +1,8 @@
 Package: sybil
 Type: Package
 Title: Efficient Constrained Based Modelling
-Version: 2.1.5
-Date: 2019-03-07
+Version: 2.2.0
+Date: 2021-05-31
 Authors@R: c(
          person("Mayo", "Roettger", role = c("cre"), email = "mayo.roettger@hhu.de"),
 	     person("Gabriel", "Gelius-Dietrich", role = "aut"),
@@ -18,7 +18,7 @@ Imports: methods
 Suggests: glpkAPI (>= 1.2.8), cplexAPI (>= 1.2.4), clpAPI (>= 1.2.4),
         lpSolveAPI (>= 5.5.2.0), parallel, grid
 URL:
-        http://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/computational-cell-biology/software/sybil.html
+        https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/computational-cell-biology/software-contributions/sybil
 Description: This Systems Biology Package (Gelius-Dietrich et. al. (2012) <doi:10.1186/1752-0509-7-125>) implements algorithms for constraint based analyses of metabolic networks, e.g. flux-balance analysis (FBA), minimization of metabolic adjustment (MOMA), regulatory on/off minimization (ROOM), robustness analysis and flux variability analysis. The package is easily extendable for additional algorithms. Most of the current LP/MILP solvers are supported via additional packages.
 LazyLoad: yes
 License: GPL-3 | file LICENSE
@@ -55,7 +55,7 @@ Collate: generics.R validmodelorg.R validoptsol.R validreactId.R
         sysBiolAlg_mtfClass.R sysBiolAlg_mtfEasyConstraintClass.R
         sysBiolAlg_roomClass.R sybilLogClass.R upgradeModelorg.R
         mergeReact2Modelorg.R
-Packaged: 2019-03-07 10:11:26 UTC; root
+Packaged: 2021-05-31 10:33:17 UTC; mayo
 Author: Mayo Roettger [cre],
   Gabriel Gelius-Dietrich [aut],
   C. Jonathan Fritzemeier [ctb],
@@ -66,4 +66,4 @@ Author: Mayo Roettger [cre],
   Martin J. Lercher [ctb]
 NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2019-03-07 14:10:03 UTC
+Date/Publication: 2021-05-31 11:50:02 UTC
